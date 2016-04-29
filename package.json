@@ -1,0 +1,19 @@
+{
+	"name": "hourly",
+	"version": "1.0.0",
+	"description": "Hourly is a setInterval() replacement to conveniently set up firing on the hour",
+	"main": "hourly.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/rektide/hourly"
+	},
+	"author": "rektide",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/rektide/hourly/issues"
+	},
+	"homepage": "https://github.com/rektide/hourly"
+}
